@@ -64,12 +64,12 @@
 * 불용어 제거
 * 작가별 워드클라우드에서 공통적으로 나타나는 단어 "odin" 제거 -> 작가 비식별화를 위해 대회 측에서 삽입한 단어로 취급
 
-![image-20201111110803113](C:\Users\Lee Chanju\AppData\Roaming\Typora\typora-user-images\image-20201111110803113.png)
+![image1](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image1.PNG)
 
 * 작가별 단어 사용 빈도수 시각화
   * 다섯 작가 모두 "said"가 가장 많이 등장 -> 소설이라는 특성상, ~~가 말했다 형식의 문체를 드러냄
 
-![image-20201111111057131](C:\Users\Lee Chanju\AppData\Roaming\Typora\typora-user-images\image-20201111111057131.png)
+![image2](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image2.PNG)
 
 
 
@@ -86,7 +86,7 @@
 * TF-IDF (Term Frequency-Inverse Document Frequency) & Logistic Regression
 * Word2Vec
 
-![image-20201111111412615](C:\Users\Lee Chanju\AppData\Roaming\Typora\typora-user-images\image-20201111111412615.png)
+![image3](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image3.PNG)
 
 * 다층 퍼셉트론 (Multi-Layer Perceptron)
 * 나이브 베이즈 분류기 (Naive Bayes Classifier)
@@ -103,7 +103,4 @@
 
 **데이터 전처리 방식에 따른 모델 성능 비교**
 
-![image-20201111111801345](C:\Users\Lee Chanju\AppData\Roaming\Typora\typora-user-images\image-20201111111801345.png)
-
-
-
+<img src="C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image.PNG" alt="image" style="zoom: 50%;" />
