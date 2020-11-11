@@ -64,13 +64,12 @@
 * 불용어 제거
 * 작가별 워드클라우드에서 공통적으로 나타나는 단어 "odin" 제거 -> 작가 비식별화를 위해 대회 측에서 삽입한 단어로 취급
 
-![image1](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image1.PNG)
+<img width="705" alt="image1" src="https://user-images.githubusercontent.com/70255515/98759307-2db95a80-2414-11eb-8338-04d7aa5f648d.PNG">
 
 * 작가별 단어 사용 빈도수 시각화
-  * 다섯 작가 모두 "said"가 가장 많이 등장 -> 소설이라는 특성상, ~~가 말했다 형식의 문체를 드러냄
+  * 다섯 작가 모두 "said"가 가장 많이 등장 -> 소설이라는 특성상, ~가 말했다 형식의 문체를 드러냄
 
-![image2](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image2.PNG)
-
+<img width="734" alt="image2" src="https://user-images.githubusercontent.com/70255515/98759375-4de91980-2414-11eb-899c-f4ef3e80b9eb.PNG">
 
 
 #### [모델 개발 및 성능 비교]
@@ -86,7 +85,7 @@
 * TF-IDF (Term Frequency-Inverse Document Frequency) & Logistic Regression
 * Word2Vec
 
-![image3](C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image3.PNG)
+<img width="544" alt="image3" src="https://user-images.githubusercontent.com/70255515/98759409-61948000-2414-11eb-8178-6a2d8519d48b.PNG">
 
 * 다층 퍼셉트론 (Multi-Layer Perceptron)
 * 나이브 베이즈 분류기 (Naive Bayes Classifier)
@@ -103,4 +102,4 @@
 
 **데이터 전처리 방식에 따른 모델 성능 비교**
 
-<img src="C:\Users\Lee Chanju\Documents\Multicampus\Semi-project_01\image.PNG" alt="image" style="zoom: 50%;" />
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/70255515/98759457-7709aa00-2414-11eb-972d-174041f35a12.PNG">
